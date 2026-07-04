@@ -12,5 +12,5 @@
 :root {
 	--font-primary: "Lexend" !important; /*majority of fonts*/
 	--font-display: "Lexend" !important; /*settings headers*/
-	--font-code: "Lexend" !important; /*settings headers*/
+	--font-code: "Lexend" !important; /*code blocks*/
 }
