@@ -4,13 +4,3 @@
  * @description Changes Discord's default font to Lexend, a more dyslexic-friendly font.
  * @version v1
  */
-
-/*downloads Lexend off google's api*/
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
-
-/*forces all fonts to Lexend*/
-:root {
-	--font-primary: "Lexend" !important; /*majority of fonts*/
-	--font-display: "Lexend" !important; /*settings headers*/
-	--font-code: "Lexend" !important; /*code blocks*/
-}
